@@ -1,0 +1,20 @@
+# Data & EDA
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+
+# NLP / modeling
+scikit-learn
+nltk
+sentence-transformers
+transformers
+torch
+
+# App
+streamlit
+
+# Utilities
+joblib
+tqdm
