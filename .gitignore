@@ -2,7 +2,17 @@
 venv/
 .venv/
 
-# Kaggle credentials
+# Data (large, and Yelp's license doesn't allow redistribution)
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/.gitkeep
+
+# Trained model artifacts (large, regenerable)
+models/*
+!models/.gitkeep
+
+# Kaggle credentials — NEVER commit this
 kaggle.json
 
 # Python cache

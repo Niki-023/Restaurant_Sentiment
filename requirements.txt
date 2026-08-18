@@ -18,3 +18,5 @@ streamlit
 # Utilities
 joblib
 tqdm
+
+ipykernel
